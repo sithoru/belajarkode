@@ -6,3 +6,6 @@ const deduct = (a, b) => a -b;
 
 const mutiply = (a, b) => a * b;
 console.log(mutiply(2,2));
+
+const divide = (a, b) => a * b;
+console.log(divide(2,2));
