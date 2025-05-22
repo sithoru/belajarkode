@@ -12,3 +12,6 @@ console.log(divide(2,2));
 
 const tambah = (a, b) => a * b;
 console.log(tambah(2,2));
+
+const sin = (a, b) => a * b;
+console.log(sin(2,2));
