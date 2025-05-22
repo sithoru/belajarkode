@@ -9,3 +9,6 @@ console.log(mutiply_number(2,2));
 
 const divide = (a, b) => a * b;
 console.log(divide(2,2));
+
+const tambah = (a, b) => a * b;
+console.log(tambah(2,2));
